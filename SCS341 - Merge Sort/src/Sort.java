@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Sort
 {
-
+ 
 	public static void main(String[] args)
 	{
 		//ArrayList<Integer> unsortedList = new ArrayList<Integer>(Arrays.asList(14, 5 ,88, 313, 43, 17, 24, 42));
